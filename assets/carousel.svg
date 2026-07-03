@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 260" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#081323" />
+      <stop offset="100%" stop-color="#0d1f39" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#60d8ff" />
+      <stop offset="100%" stop-color="#8e6bff" />
+    </linearGradient>
+  </defs>
+  <rect width="920" height="260" rx="24" fill="url(#bg)" stroke="#3db3ff" stroke-width="2" />
+  <text x="34" y="44" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#eefaff">Project Carousel</text>
+  <text x="34" y="72" font-family="Segoe UI, sans-serif" font-size="14" fill="#9dbfee">A rotating highlight of current work, polished interfaces, and product goals.</text>
+  <rect x="44" y="94" width="250" height="120" rx="18" fill="#0d1f3b" stroke="#56d2ff" stroke-width="1.5" />
+  <text x="60" y="126" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9e8ff">Chrome Dino Game</text>
+  <text x="60" y="146" font-family="Segoe UI, sans-serif" font-size="12" fill="#99c5ff">Endless runner build, core mechanics, leaderboard UX.</text>
+  <rect x="340" y="94" width="250" height="120" rx="18" fill="#0d1f3b" stroke="#56d2ff" stroke-width="1.5" />
+  <text x="356" y="126" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9e8ff">Gun Shot - Sounds Clone</text>
+  <text x="356" y="146" font-family="Segoe UI, sans-serif" font-size="12" fill="#99c5ff">Mobile audio interface with crisp UX and performance focus.</text>
+  <rect x="636" y="94" width="220" height="120" rx="18" fill="#0d1f3b" stroke="#56d2ff" stroke-width="1.5" />
+  <text x="650" y="126" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9e8ff">Portfolio Website</text>
+  <text x="650" y="146" font-family="Segoe UI, sans-serif" font-size="12" fill="#99c5ff">Personal brand hub with modern project showcase.</text>
+  <rect x="44" y="220" width="60" height="16" rx="8" fill="#1f406b" />
+  <rect x="60" y="222" width="26" height="12" rx="6" fill="#60d8ff">
+    <animate attributeName="x" values="60;120;180" dur="6s" repeatCount="indefinite" />
+  </rect>
+</svg>

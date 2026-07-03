@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#06101e" />
+      <stop offset="100%" stop-color="#071620" />
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#4fd7ff" />
+      <stop offset="100%" stop-color="#7f70ff" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" rx="24" fill="url(#background)" stroke="url(#stroke)" stroke-width="2" />
+  <text x="34" y="46" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#ecf5ff">Current Gear</text>
+  <text x="34" y="74" font-family="Segoe UI, sans-serif" font-size="14" fill="#9dbeff">Tools and tech powering the current development loadout.</text>
+  <text x="34" y="114" font-family="Segoe UI, sans-serif" font-size="15" fill="#c6e6ff">- Unity Engine</text>
+  <text x="34" y="138" font-family="Segoe UI, sans-serif" font-size="15" fill="#c6e6ff">- C# / Gameplay scripting</text>
+  <text x="34" y="162" font-family="Segoe UI, sans-serif" font-size="15" fill="#c6e6ff">- Visual Studio, VS Code, Android Studio</text>
+  <text x="34" y="186" font-family="Segoe UI, sans-serif" font-size="15" fill="#c6e6ff">- Firebase, REST APIs, GitHub</text>
+  <rect x="600" y="94" width="246" height="76" rx="14" fill="#0b1a2d" stroke="#4bd3ff" stroke-width="1.5" />
+  <text x="620" y="116" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#eef7ff">Loadout</text>
+  <text x="620" y="144" font-family="Segoe UI, sans-serif" font-size="12" fill="#a4c9ff">Gameplay, Mobile, Open Source</text>
+  <text x="620" y="162" font-family="Segoe UI, sans-serif" font-size="12" fill="#a4c9ff">Priority: polish systems and UX</text>
+</svg>

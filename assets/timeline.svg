@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 260" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#061421" />
+      <stop offset="100%" stop-color="#081927" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#4dd7ff" />
+      <stop offset="100%" stop-color="#8b6bff" />
+    </linearGradient>
+  </defs>
+  <rect width="920" height="260" rx="24" fill="url(#bg)" stroke="#3c9dff" stroke-width="2" />
+  <text x="38" y="45" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#eff4ff">Career Timeline</text>
+  <text x="38" y="72" font-family="Segoe UI, sans-serif" font-size="14" fill="#98bfff">Tracking milestones from early Unity prototypes to polished gameplay builds.</text>
+  <line x1="60" y1="120" x2="860" y2="120" stroke="#4dd7ff" stroke-width="2" opacity="0.5" />
+  <circle cx="120" cy="120" r="12" fill="#0f1f37" stroke="#4dd7ff" stroke-width="3" />
+  <circle cx="360" cy="120" r="12" fill="#0f1f37" stroke="#4dd7ff" stroke-width="3" />
+  <circle cx="600" cy="120" r="12" fill="#0f1f37" stroke="#4dd7ff" stroke-width="3" />
+  <circle cx="840" cy="120" r="12" fill="#0f1f37" stroke="#4dd7ff" stroke-width="3" />
+  <text x="70" y="105" font-family="Segoe UI, sans-serif" font-size="14" fill="#b8dfff">2024</text>
+  <text x="70" y="145" font-family="Segoe UI, sans-serif" font-size="12" fill="#a3c9ff">First Unity gameplay prototypes and mechanics.</text>
+  <text x="310" y="105" font-family="Segoe UI, sans-serif" font-size="14" fill="#b8dfff">2025</text>
+  <text x="310" y="145" font-family="Segoe UI, sans-serif" font-size="12" fill="#a3c9ff">Mobile and WebGL demos, portfolio launch.</text>
+  <text x="550" y="105" font-family="Segoe UI, sans-serif" font-size="14" fill="#b8dfff">2026</text>
+  <text x="550" y="145" font-family="Segoe UI, sans-serif" font-size="12" fill="#a3c9ff">Gameplay architecture, open source, Unreal learning.</text>
+  <text x="790" y="105" font-family="Segoe UI, sans-serif" font-size="14" fill="#b8dfff">Next</text>
+  <text x="790" y="145" font-family="Segoe UI, sans-serif" font-size="12" fill="#a3c9ff">Publish mobile games and join an international studio.</text>
+</svg>

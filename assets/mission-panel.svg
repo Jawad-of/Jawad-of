@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#07141e" />
+      <stop offset="100%" stop-color="#091727" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#53d7ff" />
+      <stop offset="100%" stop-color="#8c6bff" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="900" height="200" rx="24" fill="url(#bg)" stroke="#3bb0ff" stroke-width="2" />
+  <text x="34" y="46" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#eff6ff">Current Mission</text>
+  <text x="34" y="74" font-family="Segoe UI, sans-serif" font-size="14" fill="#9fc6ff">Launch new gameplay systems, polish mobile UX, and grow open source impact.</text>
+  <text x="34" y="114" font-family="Segoe UI, sans-serif" font-size="15" fill="#bfe3ff">- Game prototype iteration</text>
+  <text x="34" y="138" font-family="Segoe UI, sans-serif" font-size="15" fill="#bfe3ff">- Mobile optimization and touch controls</text>
+  <text x="34" y="162" font-family="Segoe UI, sans-serif" font-size="15" fill="#bfe3ff">- UI polish, feedback systems, and score loops</text>
+  <text x="34" y="186" font-family="Segoe UI, sans-serif" font-size="15" fill="#bfe3ff">- Build a stronger GitHub profile for recruiters</text>
+  <rect x="600" y="116" width="256" height="56" rx="14" fill="url(#accent)" opacity="0.92" />
+  <text x="620" y="148" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#071226">Priority: High</text>
+  <text x="620" y="168" font-family="Segoe UI, sans-serif" font-size="12" fill="#081d2d">Progress: 84% Complete</text>
+</svg>

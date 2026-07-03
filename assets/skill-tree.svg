@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 260" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#06111f" />
+      <stop offset="100%" stop-color="#081728" />
+    </linearGradient>
+    <linearGradient id="nodeGrad" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#76e1ff" />
+      <stop offset="100%" stop-color="#5b74ff" />
+    </linearGradient>
+  </defs>
+  <rect width="920" height="260" rx="24" fill="url(#bg)" stroke="#3e99ff" stroke-width="2" />
+  <text x="38" y="45" font-family="Segoe UI, sans-serif" font-size="22" font-weight="700" fill="#e8f4ff">Skill Tree</text>
+  <text x="38" y="70" font-family="Segoe UI, sans-serif" font-size="14" fill="#9ebeff">Core abilities built for Unity gameplay systems and modern product development.</text>
+  <line x1="90" y1="120" x2="160" y2="120" stroke="#448aff" stroke-width="2" />
+  <circle cx="90" cy="120" r="16" fill="#112744" stroke="#73d8ff" stroke-width="2" />
+  <circle cx="160" cy="120" r="16" fill="#112744" stroke="#73d8ff" stroke-width="2" />
+  <line x1="160" y1="120" x2="260" y2="120" stroke="#448aff" stroke-width="2" />
+  <circle cx="260" cy="120" r="16" fill="#112744" stroke="#73d8ff" stroke-width="2" />
+  <text x="72" y="118" font-family="Segoe UI, sans-serif" font-size="10" fill="#b8e8ff">Unity</text>
+  <text x="145" y="118" font-family="Segoe UI, sans-serif" font-size="10" fill="#b8e8ff">C#</text>
+  <text x="238" y="118" font-family="Segoe UI, sans-serif" font-size="10" fill="#b8e8ff">Gameplay</text>
+  <line x1="260" y1="120" x2="360" y2="80" stroke="#448aff" stroke-width="2" />
+  <circle cx="360" cy="80" r="14" fill="#112744" stroke="#73d8ff" stroke-width="2" />
+  <text x="343" y="78" font-family="Segoe UI, sans-serif" font-size="10" fill="#b8e8ff">Mobile</text>
+  <line x1="260" y1="120" x2="360" y2="160" stroke="#448aff" stroke-width="2" />
+  <circle cx="360" cy="160" r="14" fill="#112744" stroke="#73d8ff" stroke-width="2" />
+  <text x="341" y="158" font-family="Segoe UI, sans-serif" font-size="10" fill="#b8e8ff">UI</text>
+  <line x1="360" y1="80" x2="470" y2="60" stroke="#448aff" stroke-width="2" />
+  <circle cx="470" cy="60" r="14" fill="#112744" stroke="#73d8ff" stroke-width="2" />
+  <text x="456" y="58" font-family="Segoe UI, sans-serif" font-size="10" fill="#b8e8ff">Controls</text>
+  <line x1="360" y1="160" x2="470" y2="200" stroke="#448aff" stroke-width="2" />
+  <circle cx="470" cy="200" r="14" fill="#112744" stroke="#73d8ff" stroke-width="2" />
+  <text x="455" y="198" font-family="Segoe UI, sans-serif" font-size="10" fill="#b8e8ff">Physics</text>
+  <line x1="470" y1="60" x2="580" y2="90" stroke="#448aff" stroke-width="2" />
+  <circle cx="580" cy="90" r="14" fill="#112744" stroke="#73d8ff" stroke-width="2" />
+  <text x="567" y="88" font-family="Segoe UI, sans-serif" font-size="10" fill="#b8e8ff">Animation</text>
+  <line x1="470" y1="200" x2="580" y2="170" stroke="#448aff" stroke-width="2" />
+  <circle cx="580" cy="170" r="14" fill="#112744" stroke="#73d8ff" stroke-width="2" />
+  <text x="570" y="168" font-family="Segoe UI, sans-serif" font-size="10" fill="#b8e8ff">Systems</text>
+  <line x1="580" y1="90" x2="700" y2="90" stroke="#448aff" stroke-width="2" />
+  <circle cx="700" cy="90" r="16" fill="#112744" stroke="#76e1ff" stroke-width="2" />
+  <text x="685" y="88" font-family="Segoe UI, sans-serif" font-size="10" fill="#b8e8ff">Clean Code</text>
+  <line x1="580" y1="170" x2="700" y2="170" stroke="#448aff" stroke-width="2" />
+  <circle cx="700" cy="170" r="16" fill="#112744" stroke="#76e1ff" stroke-width="2" />
+  <text x="690" y="168" font-family="Segoe UI, sans-serif" font-size="10" fill="#b8e8ff">Optimization</text>
+</svg>
