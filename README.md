@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Jawad Ahmed (Jawad-of) -->
 
 <p align="center">
-  <img src="./assets/hero-banner.svg" alt="Jawad-of Neon HUD Banner" width="100%" />
+  <img src="./assets/hero-banner.png" alt="Jawad-of Neon HUD Banner" width="100%" />
 </p>
 
 <p align="center">
